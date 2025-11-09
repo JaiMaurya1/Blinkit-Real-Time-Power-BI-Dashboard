@@ -1,2 +1,8 @@
 # Blinkit-Real-Time-Power-BI-Dashboard
-Developed a Power BI dashboard to analyze Netflix’s stock market performance (2018–2024). The dashboard tracks Open, Close, High, and Low stock prices over time, visualized by year, quarter, and month. Included dynamic slicers and DAX measures to calculate stock trends and performance summaries.
+Developed an interactive Power BI dashboard to analyze Blinkit’s real-time sales and outlet performance.
+Included key insights on outlet size, type, fat content, item category, and sales trends over time.
+Designed a dynamic filter panel for deeper analysis and visual storytelling.
+Key Outcomes:
+Tier 3 outlets showed the highest sales ($306K+)
+Medium-sized outlets generated maximum revenue
+
